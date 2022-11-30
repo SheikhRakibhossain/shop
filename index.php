@@ -21,13 +21,13 @@
 <div class="htext"><h2>For access your website you have to login eith correct access.</h2></div>
 <div class="container">
     <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 Log pull-right">
                 <a href="login.php">
                      <input type="button" class="btn btn-danger pull-right" value="LOGIN">
                 </a>
             </div>
         <div class="col-md-6">
-             <a href="signup.php">
+             <a href="register.php">
                 <input type="button" class="btn btn-success pull-left" value="SIGN UP">
             </a>
         </div>

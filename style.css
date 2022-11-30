@@ -1,6 +1,18 @@
+*{  padding: 0px;
+    margin:0px;
+
+}
+
+
 .htext h2{
 color: gray;
 text-align: center;
 text-transform: capitalize;
+padding: 40px 0px;
 
+}
+
+.Log{
+
+    text-align: end !important;
 }
